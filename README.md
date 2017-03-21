@@ -1,6 +1,6 @@
 # Common Framework for BWAPI AI - Design
 
-Don't reinvent the wheel! AI development in BWAPI can be a lot easier with a common framework to build on.
+Don't reinvent the wheel! AI development in BWAPI can be a lot easier with a common framework to build on. This repository collects ideas and design documents for a proposed common Starcraft AI framework.
 
 ## Design Philosophy
 - Expressive and clean API. Provide for concise and beautiful code.
