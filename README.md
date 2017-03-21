@@ -15,7 +15,7 @@ Don't reinvent the wheel! AI development in BWAPI can be a lot easier with a com
 - Better than state machines: asynchronous concurrent programming with coroutines/await/actors.
 
 ## Contribute your ideas
-- The wiki on this repository.
+- Open an issue on this repository for discussion.
 - IRC: #BWAPI on freenode http://webchat.freenode.net/?channels=BWAPI
 - Forums: http://forum.starcraftai.com/
 - BWAPI Wiki: http://www.starcraftai.com/wiki/Main_Page
