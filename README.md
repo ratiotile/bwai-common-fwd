@@ -10,9 +10,24 @@ Don't reinvent the wheel! AI development in BWAPI can be a lot easier with a com
 - Provide a platform for wrappers in other languages. The public interface must be easy to wrap.
 - Because of these considerations, this framework should be written in C++.
 
+## Requirements
+- Cross-platform compiler support (clang, msvc, gcc)
+- Ready to use in one package. Easy to get started.
+- Well documented.
+- Testable.
+
+## Components
+- Map analysis (BWEM?)
+- Building placer
+- Build order generator
+- Worker manager
+- Squad manager
+- Wrapper around BWAPI::Unit
+
 ### Ideas
 - Can we support TorchCraft as well?
 - Better than state machines: asynchronous concurrent programming with coroutines/await/actors.
+- Take the best components of the existing open-source projects: BWSAL, Skynet, Iron, UAB.
 
 ## Contribute your ideas
 - Open an issue on this repository for discussion.
